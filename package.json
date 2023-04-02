@@ -1,0 +1,23 @@
+{
+  "name": "scion-tiled-exporter",
+  "version": "1.0.0",
+  "description": "Tiled format exporter ready to use with scion engine",
+  "main": "index.js",
+  "devDependencies": {
+    "@mapeditor/tiled-api": "^1.10.0",
+    "eslint": "^8.8.0"
+  },
+  "scripts": {
+    "test": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grzi/scion-tiled-exporter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/grzi/scion-tiled-exporter/issues"
+  },
+  "homepage": "https://github.com/grzi/scion-tiled-exporter#readme",
+  "author": "grzi",
+  "license": "MIT"
+}
